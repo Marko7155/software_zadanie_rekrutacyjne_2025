@@ -10,7 +10,7 @@ Moje zmiany są zamknięte w dwóch plikach:
 
 ## Wymagania
 
-Nie pobierałem dodatkowych bibliotek, więc virtual environment i ```pip install crccheck bitstruct pyyaml``` wystarczy by pobrać zależności.
+Nie pobierałem dodatkowych bibliotek, więc virtual environment i ```pip install crccheck bitstruct pyyaml``` wystarczą, by pobrać zależności.
 
 Następnie wystarczy uruchomić ```tcp_proxy.py```, ```tcp_simulator.py``` i ```software_simulation.py```
 
